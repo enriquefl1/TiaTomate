@@ -1,0 +1,18 @@
+.header {
+    background-color: $jellybeam;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: $white;
+}
+
+.header--block{
+    display: inline-block;
+    text-align: center;
+    height: 120px;
+}
+
+

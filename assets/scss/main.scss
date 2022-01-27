@@ -1,0 +1,14 @@
+//abstracts 
+@import "abstracts/variables";
+
+//Base
+@import 'base/reset';
+@import 'base/typography';
+
+//Component
+@import "components/nav";
+@import "components/header";
+@import "components/main-page";
+
+//footer
+@import "components/footer"
